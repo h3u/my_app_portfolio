@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="buttons" parent="Widget.AppCompat.ActionButton">
+        <item name="android:background">#FFA726</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="buttons_alarm" parent="Widget.AppCompat.ActionButton">
+        <item name="android:background">#F44336</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
